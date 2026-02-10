@@ -33,6 +33,8 @@ Alerts are generated when unsafe driving behavior is detected.
 6. Fuzzy Logic infers driver attention state
 7. Result is sent to frontend with alerts
 
+<img width="1079" height="793" alt="image" src="https://github.com/user-attachments/assets/b8b4024b-3bc8-4779-9303-c803f609447d" />
+
 ## 📂 Repository Structure
 
 ```
